@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fileUploadSdk:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fileUploadSdk_jar</output-path>
+    <root id="archive" name="fileUploadSdk.jar">
+      <element id="module-output" name="fileUploadSdk" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../fastjson-1.2.47.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
